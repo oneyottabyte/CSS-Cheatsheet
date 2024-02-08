@@ -20,7 +20,7 @@ html{
 }
 ```
 
-## 6 Amazing CSS properties 🔥
+## 7 Amazing CSS properties 🔥
 
 ### word-spacing
 ###### Similar to letter-spacing, but defines the value of spacing between indivual words.
