@@ -13,17 +13,24 @@ Common CSS Media Queries Breakpoints Cheatsheet 🔥
 ```
 
 
-Smooth scrolling Cheatsheet 🔥
+## Smooth scrolling Cheatsheet 🔥
 ```css
 html{
     scroll-behavior: smooth;
 }
 ```
 
-6 Amazing CSS properties 🔥
+## 6 Amazing CSS properties 🔥
+### word-spacing
+<style>
+    .text {
+        word-spacing: 1rem;
+    }
+</style>
+<p class="text">Lorem ipsum dolor sit</p>
+
 ```css
 .text {
     word-spacing: 1rem;
 }
 ```
-<p class="text">Lorem ipsum dolor sit</p>
