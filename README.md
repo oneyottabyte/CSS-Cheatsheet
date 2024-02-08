@@ -19,3 +19,11 @@ html{
     scroll-behavior: smooth;
 }
 ```
+
+6 Amazing CSS properties 🔥
+```css
+.text {
+    word-spacing: 1rem;
+}
+```
+<p class="text">Lorem ipsum dolor sit</p>
