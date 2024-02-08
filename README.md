@@ -1,5 +1,6 @@
 # CSS Cheatsheet 
-### Common CSS Media Queries Breakpoints Cheatsheet 🔥
+
+## Common CSS Media Queries Breakpoints Cheatsheet 🔥
 
 ```css
 @media only screen and (min-width: 1800px) {}
@@ -11,7 +12,6 @@
 @media only screen and (orientation: landscape) {}
 @media only screen and (orientation: portrait) {
 ```
-
 
 ## Smooth scrolling Cheatsheet 🔥
 ```css
