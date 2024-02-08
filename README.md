@@ -1,5 +1,5 @@
 # CSS Cheatsheet 
-Common CSS Media Queries Breakpoints Cheatsheet 🔥
+### Common CSS Media Queries Breakpoints Cheatsheet 🔥
 
 ```css
 @media only screen and (min-width: 1800px) {}
@@ -22,8 +22,6 @@ html{
 
 ## 6 Amazing CSS properties 🔥
 ### word-spacing
-<p style="word-spacing: 1rem;">Lorem ipsum dolor sit</p>
-
 ```css
 .text {
     word-spacing: 1rem;
