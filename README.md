@@ -22,12 +22,7 @@ html{
 
 ## 6 Amazing CSS properties 🔥
 ### word-spacing
-<style>
-    .text {
-        word-spacing: 1rem;
-    }
-</style>
-<p class="text">Lorem ipsum dolor sit</p>
+<p style="word-spacing: 1rem;">Lorem ipsum dolor sit</p>
 
 ```css
 .text {
