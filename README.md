@@ -1,4 +1,4 @@
-# CSS-Media-Queries-Breakpoints
+# CSS Cheatsheet 
 Common CSS Media Queries Breakpoints Cheatsheet 🔥
 
 
