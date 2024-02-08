@@ -2,7 +2,7 @@
 Common CSS Media Queries Breakpoints Cheatsheet 🔥
 
 
-```
+```css
 @media only screen and (min-width: 1800px) {}
 @media only screen and (min-width: 1200px) and (max-width: 1799px) {}
 @media only screen and (min-width: 992px) and (max-width: 1199px) {}
