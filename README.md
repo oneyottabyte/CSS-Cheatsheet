@@ -88,7 +88,7 @@ p {
 
 ##  Cheatsheet for HTML 
 ### Texto 🔥
-####### Tags de formatação de texto em HTML são usadas para formatar texto de diferentes maneiras, como colocar o texto em negrito, itálico ou monoespaçado. A semântica de texto embutido HTML é usada para definir o significado, estrutura ou estilo de uma palavra, linha ou qualquer parte arbitrária de texto.
+###### Tags de formatação de texto em HTML são usadas para formatar texto de diferentes maneiras, como colocar o texto em negrito, itálico ou monoespaçado. A semântica de texto embutido HTML é usada para definir o significado, estrutura ou estilo de uma palavra, linha ou qualquer parte arbitrária de texto.
 ```html
 <em>…</em> //Usado para enfatizar algum texto ou mostrar algum grau de ênfase.
 <strong>…</strong> //Indica que o conteúdo tem grande importância.
@@ -120,7 +120,7 @@ p {
 </div>
 ```
 ### Listas 🔥
-####### Tags de lista em HTML, incluindo <ul>, <ol> e <li>, são usadas para criar diferentes tipos de listas. Podem ser símbolos numéricos, alfabéticos, marcadores ou outros símbolos. Existem três tipos de lista em HTML:
+###### Tags de lista em HTML, incluindo <ul>, <ol> e <li>, são usadas para criar diferentes tipos de listas. Podem ser símbolos numéricos, alfabéticos, marcadores ou outros símbolos. Existem três tipos de lista em HTML:
 ```html
 <em>…</em> //Usado para enfatizar algum texto ou mostrar algum grau de ênfase.
 <strong>…</strong> //Indica que o conteúdo tem grande importância.
